@@ -8,4 +8,4 @@ let myFunction = () => {
 }
 
 
-// Bonus?
+// Bonus? Wenn man nochmal den Button anklickt, ändert sich die Hintergrundfarbe wieder zurück
